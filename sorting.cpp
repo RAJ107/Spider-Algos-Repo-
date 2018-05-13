@@ -1,5 +1,5 @@
-// Raj 106117073
-// selection sorting
+// Raj Kuvar 106117073
+// Selection Sorting
 #include <stdio.h>
   void main()
   {
