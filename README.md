@@ -1,7 +1,11 @@
 # Spider-Algos-Repo-
 
-## Heading 2
+## About Myself
+**Hello Everyone!**
 
-#### Heading 4
-
-###### Heading 6
+I am Raj Kuvar Yadav from *Computer Science & Engineering* batch 2017-21 **NIT TIRUCHIRAPPALLI**.
+I belong to **Varanasi, UTTAR PRADESH**.
+And I love
+* Reading **poetries** and books on **philosophy**.
+* Playing **football** and **chess**.
+* And yes, listening **music** too.
